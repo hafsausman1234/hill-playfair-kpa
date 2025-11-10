@@ -29,4 +29,6 @@ The code takes the following user inputs:
    - Applies Playfair decryption using the provided key.  
    - If the decrypted text matches the original plaintext,it displays: “CIPHER BROKEN SUCCESSFULLY!”
 
-
+# Pre-requisites for running the code:
+1) python version 3.8 or higher required.
+2) numpy library should be installed using command: pip install numpy
